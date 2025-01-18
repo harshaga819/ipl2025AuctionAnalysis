@@ -51,13 +51,13 @@ The Indian Premier League (IPL) is one of the most celebrated cricket leagues gl
 
 ### Visualizations:
 #### Total Spend by Teams on each type
-![Total Spend by Teams on each type](images/totalSpend)
+![Total Spend by Teams on each type](images/totalSpend.png)
 
 #### Total players by Teams on each type
-![Total players by Teams on each type](images/totalSpendInNumber)
+![Total players by Teams on each type](images/totalPlayersInNumber.png)
 
 #### Money spent on each category and Total players sold in each category
-![Money spent on each category and Total players sold in each category](images/categorywise)
+![Money spent on each category and Total players sold in each category](images/categorywise.png)
 
 ## 5. Conclusions
 - **Team Spending**: Certain teams prioritized specific player roles, indicating strategic preferences.
