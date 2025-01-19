@@ -8,7 +8,7 @@ The Indian Premier League (IPL) is one of the most celebrated cricket leagues gl
 
 ## 3. Tools I Used
 ### Programming Languages:
-- **Python**: For web scraping, data analysis, and visualization.
+- **Python**: For web scraping, data analysis and visualization.
 
 ### Libraries and Frameworks:
 - **requests**: To fetch HTML content from websites.
