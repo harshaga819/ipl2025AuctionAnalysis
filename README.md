@@ -4,7 +4,7 @@
 This project focuses on the web scraping and analysis of data from the IPL 2025 Auction. The goal was to extract key insights about player selections, team strategies, and financial trends in the auction process. By leveraging data science techniques, the project aims to uncover actionable insights and trends.
 
 ## 2. Background
-The Indian Premier League (IPL) is one of the most celebrated cricket leagues globally, attracting top talent and massive viewership. The 2025 Auction marked a significant event, with teams competing to acquire players while balancing their budgets and strategies. This project seeks to analyze the auction dynamics to understand team compositions, player valuations, and other critical aspects.
+The Indian Premier League (IPL) is one of the most celebrated cricket leagues globally, attracting top talent and massive viewership. The 2025 Auction marked a significant event, with teams competing to acquire players while balancing their budgets and strategies. This project seeks to analyze the auction dynamics to understand team compositions, player valuations and other critical aspects.
 
 ## 3. Tools I Used
 ### Programming Languages:
