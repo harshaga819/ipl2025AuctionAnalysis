@@ -11,10 +11,10 @@ The Indian Premier League (IPL) is one of the most celebrated cricket leagues gl
 - **Python**: For web scraping, data analysis and visualization.
 
 ### Libraries and Frameworks:
-- **requests**: To fetch HTML content from websites.
-- **BeautifulSoup**: For parsing and extracting data from HTML.
-- **pandas**: For data cleaning and manipulation.
-- **matplotlib** and **seaborn**: For creating visualizations.
+- **requests**:  To fetch HTML content from websites.
+- **BeautifulSoup**:  For parsing and extracting data from HTML.
+- **pandas**:  For data cleaning and manipulation.
+- **matplotlib** and **seaborn**:  For creating visualizations.
 
 ## 4. The Analysis
 ### Web Scraping:
